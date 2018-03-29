@@ -1,1 +1,4 @@
 theme: jekyll-theme-slate
+$ cat .gitattributes
+special-vendored-path/* linguist-vendored
+jquery.js linguist-vendored=false
